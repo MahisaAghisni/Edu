@@ -7,6 +7,9 @@
 <div align="center">
     <a href="https://linkedin.com/in/mahisaaghisni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahisaaghisni" height="30" width="40" /></a>
     <a href="https://instagram.com/aghisni_f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aghisni_f" height="30" width="40" /></a>
+    <a href="mailto:AghisniFadhli@gmail.com" target="_blank">
+        <img align="center" src="https://img.icons8.com/color/344/gmail-new.png" alt="gmail" height="30" width="40" />
+    </a>
 </div>
 
 ###
