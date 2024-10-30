@@ -68,11 +68,15 @@
         In making the website using PHP Native
     </li>
     <li>
-        <a href="https://github.com/MahisaAghisni/PWL_PROJECT" target="_blank">Penyewaan Lapangan Futsal</a> : Dengan sistem pencarian lapangan yang terintegrasi,
-        pengguna dapat dengan cepat menemukan lapangan yang sesuai dengan lokasi dan preferensi mereka. Proses pemesanan yang intuitif dan
-        otomatis memudahkan pengguna dalam menentukan waktu dan tanggal yang diinginkan, sementara sistem pembayaran online memberikan kemudahan dalam
-        melakukan transaksi. Website ini memastikan aksesibilitas optimal dari berbagai perangkat, memberikan solusi terbaik untuk kebutuhan pemesanan
-        lapangan futsal secara praktis dan efektif.. Dalam pembuatan website tersebut menggunakan Framework Laravel
+        <a href="https://github.com/MahisaAghisni/MSIB-Eduwork/tree/main/studikasus" target="_blank">MafStore</a> : An e-commerce website by the name of MafStore, 
+        users can easily browse and manage products. Intuitive CRUD features allow for easy addition, editing, and deletion of items. Built using native PHP, the 
+        site provides an efficient solution for catalog management, ensuring practical and accessible use by everyone.
+    </li>
+    <li>
+        <a href="https://github.com/MahisaAghisni/PWL_PROJECT" target="_blank">Penyewaan Lapangan Futsal</a> : With an integrated pitch search system, users can 
+        quickly find pitches that match their location and preferences. The intuitive and automated booking process makes it easy for users to specify the desired 
+        time and date, while the online payment system provides convenience in making transactions. This website ensures optimal accessibility from various devices,
+         providing the best solution for futsal court booking needs practically and effectively. In making the website using the Laravel Framework
     </li>
     <li>
         <a href="https://github.com/MahisaAghisni/MahisaAghisni.github.io" target="_blank">Sistem Informasi Batu</a> : The Batu City Information System website is
