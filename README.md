@@ -76,7 +76,7 @@
         <a href="https://github.com/MahisaAghisni/PWL_PROJECT" target="_blank">Penyewaan Lapangan Futsal</a> : With an integrated pitch search system, users can 
         quickly find pitches that match their location and preferences. The intuitive and automated booking process makes it easy for users to specify the desired 
         time and date, while the online payment system provides convenience in making transactions. This website ensures optimal accessibility from various devices,
-         providing the best solution for futsal court booking needs practically and effectively. In making the website using the Laravel Framework
+        providing the best solution for futsal court booking needs practically and effectively. In making the website using the Laravel Framework
     </li>
     <li>
         <a href="https://github.com/MahisaAghisni/MahisaAghisni.github.io" target="_blank">Sistem Informasi Batu</a> : The Batu City Information System website is
